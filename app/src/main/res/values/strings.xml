@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Boogie Woogie Nepal</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="banner_ad_unit_id">ca-app-pub-4935839842645698/7991163178</string>
+    <string name="admob_interstitial_id">ca-app-pub-4935839842645698/6045147379</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-4935839842645698/3943681925</string>
+    <string name="admob_interstitial_id2">ca-app-pub-4935839842645698/4672355957</string>
+</resources>

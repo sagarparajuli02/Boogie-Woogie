@@ -1,0 +1,30 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.sagar.boogiewoogienepal.AboutBoogie">
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:orientation="vertical"
+       android:layout_margin="7dp"
+       android:layout_height="match_parent">
+
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:textSize="20dp"
+       android:lineSpacingExtra="7dp"
+
+       android:textColor="#000"
+       android:text="इतिहास रच्न सफल नेपालको पहिलो अन्तराष्ट्रिय फ़्रेञ्चाईज सिंगिंग रियालिटी शो नेपाल आइडलको अपार सफलता पछी अर्को पहिलो अन्तराष्ट्रिय फ़्रेञ्चाईज डान्स रियालिटी शो बूगी वूगी (BOOGIE WOOGIE  ) को top 10 को यात्रा सुरु भएको छ  । बूगी वूगीको नेपाली संस्करणमा चर्चित अभिनेता एबं कुशल नृत्यकार दिलिप रायमाझी, चर्चित अभिनेत्री प्रियंका कार्की अनि आजका व्यस्ततम कोरियोग्राफर कविराज गहतराज निर्णायक रहेका छन  ।"/>
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="20dp"
+    android:lineSpacingExtra="7dp"
+    android:textColor="#000"
+    android:text="अन्नपूर्ण मिडिया नेटवर्क अन्तर्गतको नेपालको पहिलो एच डी च्यानल एपी वानबाट यो शो प्रशारण भैरहेको छ ।कार्यक्रम संचालन कमेडियन दिनेश काफ्ले र अजय गुरुङले गरेका छन्  । चैत्र पन्ध्र  गते बिहिबार बेलुकी ८ बजे बाट वूगी  प्रसारणमा आएको डान्स रियालिटी शो बूगी वूगी (BOOGIE WOOGIE  ) आज राती ८ बजेबाट  top 10 मा प्रवेश गर्दै छ । देशभर बाट छानिएर आएका हजारौ सहभागीबाट उत्कृष्ट सय अनि सयबाट पनि उत्कृष्ट भएका १८ प्रतिस्प्रर्धीहरुले आफ्नो नृत्य कला प्रस्तुत गर्दै अहिले top 10  सम्म आई पुगेका छन्"
+    />
+   </LinearLayout>
+</ScrollView>
